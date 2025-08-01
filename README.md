@@ -1,6 +1,6 @@
 # 🔐 AWS Threat Detection Lab
 
-Welcome to the AWS Threat Detection Lab — a hands-on project showcasing how to detect, alert, and respond to security threats in AWS using native services and minimal custom code. This lab simulates real-world attack scenarios and provides infrastructure and logic to detect them in real-time.
+Welcome to the AWS Threat Detection Lab a hands-on project showcasing how to detect, alert, and respond to security threats in AWS using native services and minimal custom code. This lab simulates real-world attack scenarios and provides infrastructure and logic to detect them in real-time.
 
 ---
 
