@@ -26,30 +26,3 @@ This project demonstrates how to:
 | Lambda            | Sends custom alerts on suspicious events |
 | SNS               | Delivers alerts (email, Slack, SMS, etc) |
 | Terraform         | Infrastructure as Code                   |
-
-## 📁 Project Structure
-aws-threat-detection-lab/
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   └── outputs.tf
-│
-├── lambda/
-│   └── suspicious_activity_alert/
-│       ├── lambda_function.py
-│       └── requirements.txt
-│
-├── simulations/
-│   └── simulate-privesc.sh
-│
-├── detections/
-│   ├── detect-iam-privesc.md
-│   ├── detect-console-login-anomalies.md
-│   └── detect-malicious-api-calls.md
-│
-└── diagrams/
-    └── threat-detection-architecture.png
